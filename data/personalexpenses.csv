@@ -1,0 +1,176 @@
+﻿id,date,category,amount,description
+172,2024-06-02,Transport,7.0,Taxi ride
+1,2024-09-18,Food,15.5,Lunch with friends
+2,2024-09-19,Transport,7.2,Bus fare
+3,2024-09-20,Entertainment,25.0,Movie ticket
+4,2024-09-21,Groceries,42.8,Weekly shopping
+5,2024-09-22,Health,18.5,Pharmacy purchase
+6,2024-09-23,Utilities,80.3,Electricity bill
+7,2024-09-24,Travel,150.0,Weekend getaway
+8,2024-09-25,Food,12.9,Dinner at restaurant
+9,2024-09-26,Shopping,45.7,New clothes
+10,2024-09-27,Education,30.5,Books for school
+11,2024-09-28,Entertainment,22.0,Concert ticket
+12,2024-09-29,Food,9.8,Coffee with colleagues
+13,2024-09-30,Health,50.0,Gym membership
+14,2024-10-01,Transport,5.5,Subway fare
+15,2024-10-02,Groceries,38.4,Vegetables and fruits
+16,2024-10-03,Travel,200.0,Flight ticket
+17,2024-10-04,Utilities,55.2,Water bill
+18,2024-10-05,Entertainment,15.0,Streaming subscription
+19,2024-10-06,Shopping,120.9,New shoes
+20,2024-10-07,Health,22.5,Doctor consultation
+21,2024-10-08,Food,8.0,Breakfast at cafe
+22,2024-10-09,Transport,10.0,Taxi ride
+23,2024-10-10,Education,40.0,Online course
+24,2024-10-11,Groceries,60.2,Supermarket haul
+25,2024-10-12,Shopping,75.0,Gifts for family
+26,2024-10-13,Entertainment,35.0,Sports event ticket
+27,2024-10-14,Food,20.5,Dinner with coworkers
+28,2024-10-15,Health,45.0,Massage therapy
+29,2024-10-16,Utilities,90.0,Internet bill
+30,2024-10-17,Travel,300.0,Hotel reservation
+31,2024-11-01,Food,12.5,Breakfast at a restaurant
+32,2024-11-02,Transport,6.0,Subway ticket
+33,2024-11-03,Entertainment,30.0,Theater ticket
+34,2024-11-04,Groceries,45.3,Weekly shopping
+35,2024-11-05,Health,20.0,Medications
+36,2024-11-06,Utilities,85.0,Gas bill
+37,2024-11-07,Travel,180.0,Weekend trip
+38,2024-11-08,Shopping,50.5,New clothes
+39,2024-11-09,Education,35.0,Study materials
+40,2024-11-10,Food,15.0,Lunch with colleagues
+41,2024-11-11,Entertainment,40.0,Movie night with friends
+42,2024-11-12,Transport,8.5,Uber to a meeting
+43,2024-11-13,Groceries,58.0,Monthly grocery shopping
+44,2024-11-14,Health,25.0,Medical consultation
+45,2024-11-15,Utilities,70.5,Water bill
+46,2024-11-16,Shopping,110.0,New shoes
+47,2024-11-17,Entertainment,20.0,Streaming subscription
+48,2024-11-18,Food,10.5,Quick dinner
+49,2024-11-19,Travel,250.0,Hotel reservation
+50,2024-11-20,Education,45.0,Online course
+51,2024-11-21,Transport,5.0,Train ticket
+52,2024-11-22,Health,30.0,Physical therapy
+53,2024-11-23,Groceries,40.0,Fresh vegetables
+54,2024-11-24,Shopping,60.0,Christmas gifts
+55,2024-11-25,Utilities,95.0,Electricity bill
+56,2024-11-26,Food,18.0,Special dinner
+57,2024-11-27,Entertainment,50.0,Live concert
+58,2024-11-28,Travel,320.0,Flight ticket
+59,2024-11-29,Transport,7.5,Late-night taxi ride
+60,2024-11-30,Groceries,55.0,Weekly supermarket haul
+61,2024-12-01,Food,14.0,Breakfast at the bakery
+62,2024-12-02,Transport,6.5,Bus fare
+63,2024-12-03,Entertainment,45.0,Cultural event
+64,2024-12-04,Groceries,48.5,Fresh produce
+65,2024-12-05,Health,22.5,Pharmacy purchase
+66,2024-12-06,Utilities,78.0,Phone bill
+67,2024-12-07,Travel,200.0,Winter vacation
+68,2024-12-08,Shopping,55.0,Winter clothing
+69,2024-12-09,Education,38.0,Academic books
+70,2024-12-10,Food,16.5,Dinner with friends
+71,2024-12-11,Entertainment,35.0,Theater show
+72,2024-12-12,Transport,7.0,Train ride
+73,2024-12-13,Groceries,62.0,Weekly grocery shopping
+74,2024-12-14,Health,27.0,Medical check-up
+75,2024-12-15,Utilities,85.5,Gas bill
+76,2024-12-16,Shopping,120.0,Sports equipment
+77,2024-12-17,Entertainment,25.0,Music subscription
+78,2024-12-18,Food,12.0,Quick snack
+79,2024-12-19,Travel,280.0,Hotel booking for vacation
+80,2024-12-20,Education,50.0,Professional workshop
+81,2024-12-21,Transport,5.5,Metro ticket
+82,2024-12-22,Health,33.0,Therapy session
+83,2024-12-23,Groceries,45.0,Christmas dinner ingredients
+84,2024-12-24,Shopping,75.0,Last-minute Christmas gifts
+85,2024-12-25,Food,25.0,Christmas dinner
+86,2024-12-26,Entertainment,55.0,Year-end special concert
+87,2024-12-27,Travel,350.0,Flight ticket for New Year
+88,2024-12-28,Transport,9.0,Taxi ride
+89,2024-12-29,Groceries,50.0,New Year's Eve shopping
+90,2024-12-30,Utilities,100.0,Internet bill
+91,2024-12-31,Entertainment,70.0,New Year's Eve party
+92,2025-01-01,Food,20.0,New Year's brunch with family
+93,2025-01-02,Transport,6.0,Metro fare
+94,2025-01-03,Entertainment,35.0,Concert ticket
+95,2025-01-04,Groceries,50.5,Weekly shopping
+96,2025-01-05,Health,22.0,Pharmacy purchase
+97,2025-01-06,Utilities,90.0,Electricity bill
+98,2025-01-07,Travel,250.0,Weekend getaway
+99,2025-01-08,Shopping,75.0,Winter clothing
+100,2025-01-09,Education,40.0,Online course fee
+101,2025-01-10,Food,12.5,Lunch at cafe
+102,2025-01-11,Entertainment,20.0,Streaming subscription
+103,2025-01-12,Transport,8.5,Uber to office
+104,2025-01-13,Groceries,60.0,Supermarket shopping
+105,2025-01-14,Health,30.0,Doctor consultation
+106,2025-01-15,Utilities,75.0,Water bill
+107,2025-01-16,Shopping,100.0,Running shoes
+108,2025-01-17,Entertainment,45.0,Theater performance
+109,2025-01-18,Food,9.0,Coffee with coworkers
+110,2025-01-19,Travel,400.0,Flight ticket
+111,2025-01-20,Education,55.0,Seminar registration
+112,2025-02-01,Food,18.0,Dinner at a restaurant
+113,2025-02-02,Transport,7.5,Taxi fare
+114,2025-02-03,Entertainment,30.0,Cinema night
+115,2025-02-04,Groceries,42.5,Fresh vegetables
+116,2025-02-05,Health,35.0,Gym membership
+117,2025-02-06,Utilities,80.0,Gas bill
+118,2025-02-07,Travel,220.0,Hotel stay
+119,2025-02-08,Shopping,65.0,New jeans
+120,2025-02-09,Education,38.0,Books for study
+121,2025-02-10,Food,14.5,Lunch with friends
+122,2025-02-11,Entertainment,25.0,Music concert
+123,2025-02-12,Transport,5.0,Bus ticket
+124,2025-02-13,Groceries,55.0,Monthly grocery shopping
+125,2025-02-14,Health,28.0,Massage therapy
+126,2025-02-15,Utilities,95.0,Internet bill
+127,2025-02-16,Shopping,120.0,Sports equipment
+128,2025-02-17,Entertainment,20.0,Movie streaming
+129,2025-02-18,Food,10.0,Fast food dinner
+130,2025-02-19,Travel,350.0,Train ticket
+131,2025-02-20,Education,45.0,Workshop fee
+132,2025-03-01,Food,22.0,Lunch at a bistro
+133,2025-03-02,Transport,6.5,Subway fare
+134,2025-03-03,Entertainment,55.0,Live theater
+135,2025-03-04,Groceries,48.5,Weekend shopping
+136,2025-03-05,Health,24.0,Doctor visit
+137,2025-03-06,Utilities,85.0,Electric bill
+138,2025-03-07,Travel,280.0,Beach holiday
+139,2025-03-08,Shopping,90.0,Spring wardrobe
+140,2025-03-09,Education,50.0,Professional development course
+141,2025-03-10,Food,12.0,Coffee and pastry
+142,2025-03-11,Entertainment,30.0,Concert ticket
+143,2025-03-12,Transport,7.0,Train ride
+144,2025-03-13,Groceries,58.5,Supermarket visit
+145,2025-03-14,Health,26.0,Medication refill
+146,2025-03-15,Utilities,75.0,Gas bill
+147,2025-03-16,Shopping,110.0,New sneakers
+148,2025-03-17,Entertainment,40.0,Event pass
+149,2025-03-18,Food,15.5,Dinner at home
+150,2025-03-19,Travel,370.0,Hotel accommodation
+151,2025-03-20,Education,48.0,Webinar fee
+152,2025-04-01,Food,16.0,Breakfast at cafe
+153,2025-04-02,Transport,9.0,Taxi ride
+154,2025-04-03,Entertainment,32.0,Festival entrance
+155,2025-04-04,Groceries,55.5,Organic products
+156,2025-04-05,Health,40.0,Yoga classes
+157,2025-04-06,Utilities,90.5,Water bill
+158,2025-04-07,Travel,400.0,International trip
+159,2025-04-08,Shopping,135.0,Spring fashion
+160,2025-04-09,Education,60.0,Learning subscription
+161,2025-04-10,Food,18.5,Lunch with colleagues
+162,2025-04-11,Entertainment,25.0,Movie night
+163,2025-04-12,Transport,5.5,Bus fare
+164,2025-04-13,Groceries,42.0,Fresh produce
+165,2025-04-14,Health,35.0,Medical appointment
+166,2025-04-15,Utilities,120.0,Internet subscription
+167,2025-04-16,Shopping,150.0,Electronics purchase
+168,2025-04-17,Entertainment,50.0,Concert event
+169,2025-04-18,Food,14.5,Quick lunch
+170,2025-04-19,Travel,450.0,Vacation package
+171,2025-04-20,Education,55.0,Skill development course
+173,2025-05-01,Health,15.0,
+174,2024-12-11,Education,10000.0,Py development skills
+175,2025-05-11,Education,550.0,Development skills
