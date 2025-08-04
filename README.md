@@ -5,9 +5,10 @@
 - - Course: Artificial Intelligence & Machine Learning
 - - University of San Diego / Fullstack Academy
 - - Section: 2504-FTB-CT-AIM-PT
-- - Due Date: May 12
+- - Start date: April/2025
+- - End Date: May/2025
 - - Anticipated Graduation: October 2025
-- - Project Type: Applied Data Science & Programming Exercise
+- - Project Type: Python Programming Exercise
 
 - Project Overview
 - - This project is a command-line expense tracker designed to help users log, categorize, and analyze their personal spending habits. Built entirely in Python, the app enables users to manage daily expenses, set monthly budgets, monitor performance against financial goals, and persist data using CSV files.
