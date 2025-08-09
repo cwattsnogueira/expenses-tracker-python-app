@@ -10,6 +10,14 @@
 - - Anticipated Graduation: October 2025
 - - Project Type: Python Programming Exercise
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
+![CLI App](https://img.shields.io/badge/Interface-CLI-orange.svg)
+![CSV](https://img.shields.io/badge/Data%20Storage-CSV-lightgrey.svg)
+![UTF-8](https://img.shields.io/badge/Encoding-UTF--8--SIG-blueviolet.svg)
+![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg)
+
 - Project Overview
 - - This project is a command-line expense tracker designed to help users log, categorize, and analyze their personal spending habits. Built entirely in Python, the app enables users to manage daily expenses, set monthly budgets, monitor performance against financial goals, and persist data using CSV files.
 - - The idea was to create a simple yet powerful CLI tool that promotes personal accountability and budget awareness — and to apply core programming concepts in a real-world challenge.
